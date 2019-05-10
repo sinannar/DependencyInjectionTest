@@ -3,4 +3,4 @@
 - [x] AutoFac
 - [x] Ninject
 - [x] StructureMap
-- [ ] Castle Windor
+- [x] Castle Windor

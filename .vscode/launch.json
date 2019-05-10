@@ -49,6 +49,17 @@
             "stopAtEntry": false
         },
         {
+            "name": ".NET Core Launch (console)(Castle Windsor  DI)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Driver-CastleWindsor/bin/Debug/netcoreapp3.0/Driver-CastleWindsor.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Driver-CastleWindsor",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach",
