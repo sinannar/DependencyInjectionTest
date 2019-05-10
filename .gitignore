@@ -3,5 +3,7 @@ Driver/obj/*
 Driver/bin/*
 Driver-Autofact/obj/*
 Driver-Autofact/bin/*
+Driver-StructureMap/obj/*
+Driver-StructureMap/bin/*
 Service/obj/*
 Service/bin/*
