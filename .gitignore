@@ -1,0 +1,5 @@
+.vs/*
+Driver/obj/*
+Driver/bin/*
+Service/obj/*
+Service/bin/*
