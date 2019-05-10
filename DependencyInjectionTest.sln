@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Driver-Autofact", "Driver-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Driver-StructureMap", "Driver-StructureMap\Driver-StructureMap.csproj", "{B7939BD2-0DD4-49E2-902B-B3DC8F9CFF59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Driver-Ninject", "Driver-Ninject\Driver-Ninject.csproj", "{27C1BCE1-CA16-417E-A8B0-57408EF854F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B7939BD2-0DD4-49E2-902B-B3DC8F9CFF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7939BD2-0DD4-49E2-902B-B3DC8F9CFF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7939BD2-0DD4-49E2-902B-B3DC8F9CFF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C1BCE1-CA16-417E-A8B0-57408EF854F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C1BCE1-CA16-417E-A8B0-57408EF854F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C1BCE1-CA16-417E-A8B0-57408EF854F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C1BCE1-CA16-417E-A8B0-57408EF854F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

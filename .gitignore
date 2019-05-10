@@ -3,6 +3,8 @@ Driver/obj/*
 Driver/bin/*
 Driver-Autofact/obj/*
 Driver-Autofact/bin/*
+Driver-Ninject/obj/*
+Driver-Ninject/bin/*
 Driver-StructureMap/obj/*
 Driver-StructureMap/bin/*
 Service/obj/*

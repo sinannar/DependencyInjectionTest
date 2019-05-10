@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)(AspNet DI",
+            "name": ".NET Core Launch (console)(AspNet DI)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
@@ -34,6 +34,17 @@
             "program": "${workspaceFolder}/Driver-StructureMap/bin/Debug/netcoreapp3.0/Driver-StructureMap.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Driver-StructureMap",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (console)(Ninject  DI)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Driver-Ninject/bin/Debug/netcoreapp3.0/Driver-Ninject.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Driver-Ninject",
             "console": "internalConsole",
             "stopAtEntry": false
         },

@@ -1,6 +1,6 @@
 
 - [x] Microsoft.Extensions.DependencyInjection
 - [x] AutoFac
-- [ ] Ninject
+- [x] Ninject
 - [x] StructureMap
 - [ ] Castle Windor
