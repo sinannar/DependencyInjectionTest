@@ -1,5 +1,7 @@
 .vs/*
 Driver/obj/*
 Driver/bin/*
+Driver-Autofact/obj/*
+Driver-Autofact/bin/*
 Service/obj/*
 Service/bin/*
